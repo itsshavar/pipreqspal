@@ -1,4 +1,3 @@
-===============================
 ``pipreqs`` - Generate requirements.txt file for any project based on imports using parallelism
 ===============================
         
