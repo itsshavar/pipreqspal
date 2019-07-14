@@ -3,7 +3,7 @@
 """
 
 Usage:
-    python pipreqspal.py [options] [<path>]
+    pipreqspal.py [options] [<path>]
 
 Arguments:
     <path>                The path to the directory containing the application
