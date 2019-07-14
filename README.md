@@ -15,7 +15,7 @@ Usage
 ::
 
     Usage:
-        python pipreqspal.py [options] <path>
+        pipreqspal.py [options] <path>
 
     Options:
         --use-local           Use ONLY local package info instead of querying PyPI
